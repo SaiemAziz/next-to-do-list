@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
      <h1>Hey Boys!!!</h1>
+     <p>hey hey</p>
     </div>
   )
 }
